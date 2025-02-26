@@ -41,7 +41,7 @@ There are two primary jobs involved in creating a website: the web designer and 
 
 Whether you're looking to build your brand, streamline internal communications, or spark a digital revolution, I’m ready to help. Let’s break down barriers, rethink what’s possible, and make an <strong>impactful difference</strong>.
 
-- Storytelling for Impact: I lead with purposeful narratives that engage and inspire, making sure every message resonates and drives action.
-- Creative Leadership: I thrive on blending creative innovation with strategic thinking, ensuring that every decision moves the needle forward.
-- Tech-Enabled Transformation: I leverage the right tools and platforms to drive operational efficiency, engagement, and growth across departments.
-- Collaborative Growth: I firmly believe that the best work happens when teams collaborate, break down barriers, and come together with shared goals in mind.
+Whether you're looking to build your brand, streamline internal communications, or spark a digital revolution, I’m ready to help. Let’s break down barriers, rethink what’s possible, and make an impactful difference.
+
+<strong>Fun Fact</strong>
+I’ve appeared in a film alongside Oscar-nominated actors—because sometimes, the best experiences come from stepping outside the box.
