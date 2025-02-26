@@ -172,7 +172,7 @@ footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Tasha George-Mitchell"
   footer_description: "Explore my portfolio site and discover how my strategic creative direction drives growth."
-  enable_social_media_icons: false
+  enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
