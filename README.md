@@ -1,57 +1,56 @@
-<header>
+# Jekyll Curate Premium Theme
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Jekyll Curate is a premium portfolio theme for Jekyll.
 
-# GitHub Pages
+## Documentation
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+* Live Docs: https://www.zerostatic.io/docs/jekyll-curate
+* Demo: https://jekyll-curate.netlify.app/
 
-</header>
+## Screenshot
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+![Jekyll Curate Theme screenshot](https://www.zerostatic.io/theme/jekyll-curate/jekyll-curate-screenshot.png)
 
-## Finish
+## Install
 
-_Congratulations friend, you've completed this course!_
+### Install Jekll
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+Make sure you have Ruby & Jekyll installed - For a step-by-step guide, read Jekyll docs [installation](https://jekyllrb.com/docs/installation/)
 
-Your blog is now live and has been deployed!
+### Install Theme
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Extract the theme .zip file to your local computer. Navigate to the project root (it contains the README.md)
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+Run `bundle install` to install gems.
 
-### What's next?
+Then run `bundle exec jekyll serve` to start the Jekyll local development server.
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+To build the Jekyll site run `bundle exec jekyll build`
 
-<footer>
+## Deploy
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### Deploy to Netlify
 
----
+This theme is pre-configured to deploy with [Netlify](https://docs.netlify.com/site-deploys/create-deploys/).
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+> 💡 If you experience bundle install issues during the Netlify deployment, deleting the Gemfile.lock can sometimes help
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### Deploy to GitHub Pages
 
-</footer>
+This theme has been tested to work with GitHub Pages. If you are creating a GitHub Pages "Project site" then your site will be in a sub-folder ie `http://username.github.io/repository` You will need to update the `baseurl` in the `_config.yml` for the asset paths to work correctly.
+
+```yaml
+# _config.yml
+baseurl: "/my-repo-name" # replace this with the name of your repo
+url: ""
+```
+
+> 💡 Github pages can be tricky to configure correctly. While we have tested this theme with Github pages, we do not provide support for deploying on this platform. If you continue to experience problems we recommend trying Netlify.
+
+## Credits
+
+This theme uses open-source libraries and assets.
+
+- **Bootstrap 5.3.2** https://unsplash.com/license
+- **Font Awesome 6 Free:** https://fontawesome.com/
+- **Unsplash Images** https://unsplash.com/
