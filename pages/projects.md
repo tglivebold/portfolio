@@ -1,6 +1,7 @@
 ---
 layout: projects
 title: Projects
+meta_title: Projects
 permalink: "/projects/"
 
 projects:
