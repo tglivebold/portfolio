@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Tasha Mitchell | Strategist, Innovator, Leader | Portfolio"
+title: "Tasha Mitchell"
 description: "Push the envelope. Rewrite the rules."
 meta_description: "Explore my portfolio site and discover how my strategic creative direction drives growth."
 meta_title: Tasha Mitchell | Strategist, Innovator, Leader | Portfolio
