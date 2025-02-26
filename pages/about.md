@@ -7,7 +7,7 @@ description: "Leading with Vision, Strategy, and Impact"
 image: "/assets/images/gen/content/content-5.webp"
 ---
 
-# Leading with Vision, Strategy, and Impact
+# Stepping Outside The Box
 
 I’m not just about pushing the envelope—I’m about rewriting the rules. Success isn't found in mere innovation; it’s about blending creativity, strategic insight, and an unrelenting drive to create something that matters. Whether it’s building internal communications, amplifying a brand, or implementing digital transformations, I lead with one focus: creating impactful results.
 
