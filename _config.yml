@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/portfolio"
+baseurl: "/"
 url: "http://tglivebold.github.io"
 permalink: pretty
 markdown: kramdown
