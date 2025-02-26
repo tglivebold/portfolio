@@ -5,6 +5,7 @@ description: "Breathing new life into old industrial estates"
 date: 2018-12-20
 weight: 3
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
+permalink: /projects/project-4
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Development"]
 client: "Brisbane City Council"
