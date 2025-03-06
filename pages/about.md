@@ -30,8 +30,6 @@ I’ve honed the ability to see the big picture while also understanding the sma
 
 ## What Sets Me Apart
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
 - <strong>Storytelling for Impact:</strong> I lead with purposeful narratives that engage and inspire, making sure every message resonates and drives action.
 - <strong>Creative Leadership:</strong> I thrive on blending creative innovation with strategic thinking, ensuring that every decision moves the needle forward.
 - <strong>Tech-Enabled Transformation:</strong> I leverage the right tools and platforms to drive operational efficiency, engagement, and growth across departments.
