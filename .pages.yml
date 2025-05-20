@@ -4,6 +4,11 @@ media:
     input: assets/images
     output: /assets/images 
     extensions: [ jpg, png, webp ]
+  - name: files
+    label: Files
+    input: assets/files
+    output: /assets/files
+    categories: [ document ]
 content:
   - label: Home Page
     path: pages/home.md
