@@ -7,4 +7,9 @@ content:
     type: collection
     path: src/docs
     filename: "{primary}.md"
+  - label: Home page
+    path: src/index.njk
+    name: homepage
+    type: file
+    
   
