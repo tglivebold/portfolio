@@ -56,7 +56,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: '_posts'
+    path: collections/_posts
     view: 
       fields: [ title, published, date ]
     fields:
