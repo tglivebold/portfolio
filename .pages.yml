@@ -30,6 +30,7 @@ content:
         label: Website URL
         type: string
         pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+        hidden: true
       - name: cover
         label: Preview image
         type: image
