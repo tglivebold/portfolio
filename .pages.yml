@@ -6,8 +6,8 @@ media:
     categories: [ document ]
   - name: images
     label: Images
-    input: images
-    output: /images 
+    input: assets/images
+    output: /assets/images 
     extensions: [ jpg, png, webp ]
 content:
   - label: Home Page
