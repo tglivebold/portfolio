@@ -2,12 +2,12 @@ media:
   - name: files
     label: Files
     input: assets/files
-    output: assets/files
+    output: /assets/files
     categories: [ document ]
   - name: images
     label: Images
     input: assets/images
-    output: assets/images
+    output: /assets/images
     extensions: [ jpg, png, webp ]
 content:
   - label: Home Page
