@@ -1,17 +1,14 @@
 media:
   input: assets
   output: /media
-images:
-  input: assets/images
-  output: /media/images
 content:
   - name: pages
     label: Pages
     type: collection
-    path: src/pages
+    path: pages
     filename: "{primary}.md"
   - label: Home page
-    path: src/index.njk
+    path: pages/home.md
     name: homepage
     type: file
     
