@@ -1,6 +1,12 @@
 media:
-  input: assets
-  output: /media
+  - name: files
+    label: Files
+    input: assets/files
+    output: /media/files
+  - name: images
+    label: Images
+    input: assets/images
+    output: /media/images
 content:
   - label: Home Page
     path: pages/home.md
