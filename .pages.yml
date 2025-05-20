@@ -19,7 +19,7 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 180 }}
       - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
-  - label: Home
+  - label: Home Page
     path: pages/home.md
     name: homepage
     type: file
@@ -28,5 +28,7 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 180 }}
       - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
+      - { name: meta_description, label: Meta Description, type: string, options: { maxlength: 180 }}
+      - { name: meta_title, label: Meta Title, type: string, options: { maxlength: 120 }}
     
   
