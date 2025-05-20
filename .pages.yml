@@ -1,9 +1,4 @@
 media:
-  - name: files
-    label: Files
-    input: assets/files
-    output: /assets/files
-    categories: [ document ]
   - name: images
     label: Images
     input: assets/images
