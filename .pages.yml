@@ -17,7 +17,7 @@ content:
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string, options: { maxlength: 180 }, required: true}
-      - { name: body, label: Body, type: rich-text }
+      - { name: body, label: Body, type: rich-text, hidden: true }
       - { name: meta_description, label: Meta Description, type: string, options: { maxlength: 180 }}
       - { name: meta_title, label: Meta Title, type: string, options: { maxlength: 120 }}
       - { name: subscribe, label: Subscribe, type: boolean, default: false, hidden: true }
