@@ -8,7 +8,7 @@ media:
     label: Images
     input: assets/images
     output: /media/images
-    extensions: [ png, webp ]
+    extensions: [ jpg, png, webp ]
 content:
   - label: Home Page
     path: pages/home.md
