@@ -6,8 +6,6 @@ description: "Push the envelope. Rewrite the rules."
 meta_description: "Explore my portfolio site and discover how my strategic creative direction drives growth."
 meta_title: Tasha Mitchell | Strategist, Innovator, Leader | Portfolio
 subscribe: false
----
-
 projects:
   heading: "" # "Projects"
   sub_heading: "" # "A collection of our recent work"
@@ -25,3 +23,4 @@ posts:
   view_more_button_text: ""
   view_more_button_link: "" # "/blog"
   columns: 3 # 1 | 2 | 3 | 4
+---
