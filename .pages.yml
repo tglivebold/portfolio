@@ -2,8 +2,20 @@ media:
   input: assets
   output: /media
 content:
+  - label: Home Page
+    path: pages/home.md
+    name: homepage
+    type: file
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: description, label: Description, type: string, options: { maxlength: 180 }, required: true}
+      - { name: body, label: Body, type: rich-text }
+      - { name: meta_description, label: Meta Description, type: string, options: { maxlength: 180 }}
+      - { name: meta_title, label: Meta Title, type: string, options: { maxlength: 120 }}
+      - { name: subscribe, label: Subscribe, type: boolean, default: false, hidden: true }
+      
   - name: pages
-    label: Pages
+    label: Main Pages
     type: collection
     path: pages
     filename: "{primary}.md"
@@ -19,6 +31,7 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 180 }}
       - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
+      
   - name: posts
     label: Blog Posts
     type: collection
@@ -31,17 +44,3 @@ content:
       default:
         sort: date
         order: asc
-    
-  - label: Home Page
-    path: pages/home.md
-    name: homepage
-    type: file
-    fields:
-      - { name: title, label: Title, type: string, required: true }
-      - { name: description, label: Description, type: string, options: { maxlength: 180 }, required: true}
-      - { name: body, label: Body, type: rich-text }
-      - { name: meta_description, label: Meta Description, type: string, options: { maxlength: 180 }}
-      - { name: meta_title, label: Meta Title, type: string, options: { maxlength: 120 }}
-      - { name: subscribe, label: Subscribe, type: boolean, default: false, hidden: true }
-    
-  
