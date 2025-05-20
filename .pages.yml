@@ -19,9 +19,14 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 180 }}
       - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
-  - label: Home page
+  - label: Home
     path: pages/home.md
     name: homepage
     type: file
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: description, label: Description, type: string, options: { maxlength: 180 }}
+      - { name: order, label: Order, type: number }
+      - { name: body, label: Body, type: rich-text }
     
   
