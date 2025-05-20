@@ -7,7 +7,7 @@ media:
   - name: images
     label: Images
     input: assets/images
-    output: /assets/image
+    output: /assets/images 
     extensions: [ jpg, png, webp ]
 content:
   - label: Home Page
