@@ -2,10 +2,10 @@ media:
   input: src/media
   output: /media
 content:
-  - name: docs
-    label: Documentation
+  - name: pages
+    label: Pages
     type: collection
-    path: src/docs
+    path: src/pages
     filename: "{primary}.md"
   - label: Home page
     path: src/index.njk
