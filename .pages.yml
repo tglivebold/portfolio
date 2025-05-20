@@ -25,10 +25,11 @@ content:
     type: file
     fields:
       - { name: title, label: Title, type: string, required: true }
-      - { name: description, label: Description, type: string, options: { maxlength: 180 }}
-      - { name: order, label: Order, type: number }
+      - { name: description, label: Description, type: string, options: { maxlength: 180 }, required: true}
+      - { name: order, label: Order, type: number, required: true }
       - { name: body, label: Body, type: rich-text }
       - { name: meta_description, label: Meta Description, type: string, options: { maxlength: 180 }}
       - { name: meta_title, label: Meta Title, type: string, options: { maxlength: 120 }}
+      - { name: subscribe, label: Subscribe, type: boolean }
     
   
