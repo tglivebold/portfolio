@@ -3,10 +3,12 @@ media:
     label: Files
     input: assets/files
     output: /media/files
+    categories: [ document ]
   - name: images
     label: Images
     input: assets/images
     output: /media/images
+    extensions: [ png, webp ]
 content:
   - label: Home Page
     path: pages/home.md
