@@ -2,7 +2,7 @@
 title: About Me
 description: Leading with Vision, Strategy, and Impact
 ---
-# Stepping Outsde The Box
+# Stepping Outside The Box
 
 I’m not just about pushing the envelope—I’m about rewriting the rules. Success isn't found in mere innovation; it’s about blending creativity, strategic insight, and an unrelenting drive to create something that matters. Whether it’s building internal communications, amplifying a brand, or implementing digital transformations, I lead with one focus: creating impactful results.
 
