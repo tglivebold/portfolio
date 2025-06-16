@@ -1,5 +1,5 @@
 ---
-title: Core Compentencies
+title: Case Studies
 ---
 ### **BRANDING**
 
