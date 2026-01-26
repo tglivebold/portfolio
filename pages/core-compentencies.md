@@ -4,15 +4,6 @@ description: Examples of enterprise change, multi-site successions, leadership
   transitions and transformational camapigns
 order: 3
 ---
-*   UMC denominational realignment (2020–2025)
-    
-*   Multi-site succession and spin-off transitions
-    
-*   Startup campus launch and responsible closure
-    
-*   Strategic campaigns driving engagement, revenue, and brand growth
-    
-
 ### **BRANDING**
 
 ### **BRAND STRATEGY**
