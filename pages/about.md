@@ -1,40 +1,24 @@
 ---
-title: About Me
-description: Leading with Vision, Strategy, and Impact
+title: "About "
+description: Executive bio and board advisor experience in transformation,
+  succession, and AI-enabled operations
+order: 1
 ---
-# Stepping Outside The Box
+I am an enterprise transformation executive and board advisor with over 15 years of experience guiding organizations through complex leadership transitions, multi-site change, and governance-driven decision-making. I partner with CEOs, boards, and leadership teams to translate strategic objectives into clear actions, balancing risk, culture, and operational efficiency.
 
-I’m not just about pushing the envelope—I’m about rewriting the rules. Success isn't found in mere innovation; it’s about blending creativity, strategic insight, and an unrelenting drive to create something that matters. Whether it’s building internal communications, amplifying a brand, or implementing digital transformations, I lead with one focus: creating impactful results.
+Across multi-site enterprises, regulated industries, and mission-driven organizations, I have led launches, scale-ups, independent spin-offs, and responsible closures, while modernizing operations with AI, automation, and digital platforms. My approach combines strategic insight, operational rigor, and stakeholder trust, ensuring organizations navigate change confidently and with measurable impact.
 
-## What I Do?
+This site highlights my work in:
 
-I lead with vision and purpose, creating cohesive strategies that cut through complexity and drive engagement. I have a proven track record of building brands, transforming communication strategies, and leading digital transformations. My approach is grounded in understanding people, whether they are employees, customers, or audiences—because when we understand what matters to them, we can create experiences that resonate. From redefining internal messaging to launching high-performing marketing campaigns, I push boundaries while ensuring that everything I do aligns with long-term goals and delivers tangible outcomes.
-
-## Why I Lead Differently
-
-I’m all about breaking down silos and fostering collaboration across every department. By aligning teams around a shared vision, I ensure we’re always working together to deliver innovative solutions that matter. I’m not afraid to disrupt the status quo, but I always do so with the intention of creating sustainable, high-impact results.
-
-The magic happens when strategy meets creativity, and I make it my mission to blend the two in a way that resonates with audiences, drives engagement, and ultimately leads to business growth.
-
-## My Journey
-
-My career has always been about taking visionary ideas and turning them into reality. I’ve helped brands evolve, created content strategies that amplify engagement, and led digital initiatives that have transformed business landscapes. Every step has been an opportunity to challenge norms and deliver results that last. I’ve honed the ability to see the big picture while also understanding the small details that make an experience great. Whether I’m leading a cross-functional team, designing a marketing strategy, or transforming an organization’s communication approach, I bring a deep commitment to growth and collaboration.
-
-## What Sets Me Apart
-
-*   **Storytelling for Impact:** I lead with purposeful narratives that engage and inspire, making sure every message resonates and drives action.
+*   Executive leadership and multi-site transformation
     
-*   **Creative Leadership:** I thrive on blending creative innovation with strategic thinking, ensuring that every decision moves the needle forward.
+*   Board and governance advisory
     
-*   **Tech-Enabled Transformation:** I leverage the right tools and platforms to drive operational efficiency, engagement, and growth across departments.
+*   Crisis and succession management
     
-*   **Collaborative Growth:** I firmly believe that the best work happens when teams collaborate, break down barriers, and come together with shared goals in mind.
+*   Technology and automation integration
+    
+*   Strategic communications and brand growth
     
 
-## Let's Create Something Unforgettable
-
-Whether you're looking to build your brand, streamline internal communications, or spark a digital revolution, I’m ready to help. Let’s break down barriers, rethink what’s possible, and make an **impactful difference**.
-
-Whether you're looking to build your brand, streamline internal communications, or spark a digital revolution, I’m ready to help. Let’s break down barriers, rethink what’s possible, and make an impactful difference.
-
-**Fun Fact** I’ve appeared in a film alongside Oscar-nominated actors—because sometimes, the best experiences come from stepping outside the box.
+I built this site to share my professional journey, case studies, and insights on enterprise transformation, offering a concise view of how I help organizations and boards achieve clarity, alignment, and sustainable results. I’m not just about pushing the envelope—I’m about rewriting the rules. Success isn't found in mere innovation; it’s about blending creativity, strategic insight, and an unrelenting drive to create something that matters. Whether it’s building internal communications, amplifying a brand, or implementing digital transformations, I lead with one focus: creating impactful results.
