@@ -1,10 +1,9 @@
 ---
-layout: contact
 title: Contact
-permalink: "/contact/"
+description: Connect for executive advisory, board engagement, or corporate
+  transformation inquiries
+order: 6
 ---
-
 ## Contact Info
 
-- **Email:** <a href="mailto:kamocompany@yahoo.come">kamocompany@yahoo.com</a>
-
+*   **Email:** [info@kendalalexander.com](mailto:kamocompany@yahoo.come)
